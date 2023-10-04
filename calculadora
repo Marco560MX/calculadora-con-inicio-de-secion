@@ -1,0 +1,53 @@
+package Main;
+
+import java.util.Scanner;
+
+public class Calcu{
+    public static void main(String[] args){
+       String usuario;
+       String Contraceña;
+       int menu0;
+       float num1;
+       float num2;
+       
+       Scanner datos = new Scanner (System.in);
+       
+       System.out.println("Hola usuario para usar la calculadora es necesario iniciar secion!! ");
+       System.out.println("\nPonga su usuario:");
+       usuario = datos.nextLine();
+       System.out.println("\nPonga su contraceña:");
+       Contraceña = datos.nextLine();
+       
+       if("Marco560MX".equals(usuario)){
+           System.out.println("\nUsuario correcto!!");
+           if("Marco2803..".equals(Contraceña)){
+               System.out.println("\nContraceña correcta!!");
+               System.out.println("\nBienvenido selecciona que accion hacer, (1)Sumar, (2)Restar, (3)Multiplicar, (4)Dividir");
+               menu0 = datos.nextInt();
+               switch(menu0){
+                   case 1:
+                       
+                       break;                                            
+                   case 2:
+                       
+                       break;
+                   case 3:
+                       
+                       break;
+                   case 4:
+                       
+                        break;
+                   default:
+                       
+                       break;
+               }
+           }
+           else{
+               System.out.println("\nContraceña incorrecta!!");
+           }
+       }
+       else{
+           System.out.println("\nUsuario incorrecto!!");
+       }
+    }
+}
