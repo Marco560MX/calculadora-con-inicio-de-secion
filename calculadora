@@ -26,19 +26,19 @@ public class Calcu{
                menu0 = datos.nextInt();
                switch(menu0){
                    case 1:
-                       
+                       System.out.println("\n");
                        break;                                            
                    case 2:
-                       
+                       System.out.println("\n");
                        break;
                    case 3:
-                       
+                       System.out.println("\n");
                        break;
                    case 4:
-                       
+                       System.out.println("\n");
                         break;
                    default:
-                       
+                       System.out.println("\n");
                        break;
                }
            }
