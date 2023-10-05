@@ -172,7 +172,153 @@ public class Calcu{
                                case 11111:
                                    System.out.println("\nSu numero es: 31");
                                    break;
-                                   
+                               case 100000:
+                                   System.out.println("\nSu numero es: 32");
+                                   break;
+                               case 100001:
+                                   System.out.println("\nSu numero es: 33");
+                                   break;
+                               case 100010:
+                                   System.out.println("\nSu numero es: 34");
+                                   break;
+                               case 100011:
+                                   System.out.println("\nSu numero es: 35");
+                                   break;
+                               case 100100:
+                                   System.out.println("\nSu numero es: 36");
+                                   break;
+                               case 100101:
+                                   System.out.println("\nSu numero es: 37");
+                                   break;
+                               case 100110:
+                                   System.out.println("\nSu numero es: 38");
+                                   break;
+                               case 100111:
+                                   System.out.println("\nSu numero es: 39");
+                                   break;
+                               case 101000:
+                                   System.out.println("\nSu numero es: 40");
+                                   break;
+                               case 101001:
+                                   System.out.println("\nSu numero es: 41");
+                                   break;
+                               case 101010:
+                                   System.out.println("\nSu numero es: 42");
+                                   break;
+                               case 101011:
+                                   System.out.println("\nSu numero es: 43");
+                                   break;
+                               case 101100:
+                                   System.out.println("\nSu numero es: 44");
+                                   break;
+                               case 101101:
+                                   System.out.println("\nSu numero es: 45");
+                                   break;
+                               case 101110:
+                                   System.out.println("\nSu numero es: 46");
+                                   break;
+                               case 101111:
+                                   System.out.println("\nSu numero es: 47");
+                                   break;
+                               case 110000:
+                                   System.out.println("\nSu numero es: 48");
+                                   break;
+                               case 110001:
+                                   System.out.println("\nSu numero es: 49");
+                                   break;
+                               case 110010:
+                                   System.out.println("\nSu numero es: 50");
+                                   break;
+                               case 110011:
+                                   System.out.println("\nSu numero es: 51");
+                                   break;
+                               case 110100:
+                                   System.out.println("\nSu numero es: 52");
+                                   break;
+                               case 110101:
+                                   System.out.println("\nSu numero es: 53");
+                                   break;
+                               case 110110:
+                                   System.out.println("\nSu numero es: 54");
+                                   break;
+                               case 110111:
+                                   System.out.println("\nSu numero es: 55");
+                                   break;
+                               case 111000:
+                                   System.out.println("\nSu numero es: 56");
+                                   break;
+                               case 111001:
+                                   System.out.println("\nSu numero es: 57");
+                                   break;
+                               case 111010:
+                                   System.out.println("\nSu numero es: 58");
+                                   break;
+                               case 111011:
+                                   System.out.println("\nSu numero es: 59");
+                                   break;
+                               case 111100:
+                                   System.out.println("\nSu numero es: 60");
+                                   break;
+                               case 111101:
+                                   System.out.println("\nSu numero es: 61");
+                                   break;
+                               case 111110:
+                                   System.out.println("\nSu numero es: 62");
+                                   break;
+                               case 111111:
+                                   System.out.println("\nSu numero es: 63");
+                                   break;
+                               case 1000000:
+                                   System.out.println("\nSu numero es: 64");
+                                   break;
+                               case 1000001:
+                                   System.out.println("\nSu numero es: 65");
+                                   break;
+                               case 1000010:
+                                   System.out.println("\nSu numero es: 66");
+                                   break;
+                               case 1000011:
+                                   System.out.println("\nSu numero es: 67");
+                                   break;
+                               case 1000100:
+                                   System.out.println("\nSu numero es: 68");
+                                   break;
+                               case 1000101:
+                                   System.out.println("\nSu numero es: 69");
+                                   break;
+                               case 1000110:
+                                   System.out.println("\nSu numero es: 70");
+                                   break;
+                               case 1000111:
+                                   System.out.println("\nSu numero es: 71");
+                                   break;
+                               case 1001000:
+                                   System.out.println("\nSu numero es: 72");
+                                   break;
+                               case 1001001:
+                                   System.out.println("\nSu numero es: 73");
+                                   break;
+                               case 1001010:
+                                   System.out.println("\nSu numero es: 74");
+                                   break;
+                               case 1001011:
+                                   System.out.println("\nSu numero es: 75");
+                                   break;
+                               case 1001100:
+                                   System.out.println("\nSu numero es: 76");
+                                   break;
+                               case 1001101:
+                                   System.out.println("\nSu numero es: 77");
+                                   break;
+                               case 1001110:
+                                   System.out.println("\nSu numero es: 78");
+                                   break;
+                               case 1001111:
+                                   System.out.println("\nSu numero es: 79");
+                                   break;
+                               case 1010000:
+                                   System.out.println("\nSu numero es: 80");
+                                   break;
                            }
                            break;
                            
