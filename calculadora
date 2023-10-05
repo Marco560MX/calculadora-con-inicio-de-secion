@@ -319,6 +319,69 @@ public class Calcu{
                                case 1010000:
                                    System.out.println("\nSu numero es: 80");
                                    break;
+                               case 1010001:
+                                   System.out.println("\nSu numero es: 81");
+                                   break;
+                               case 1010010:
+                                   System.out.println("\nSu numero es: 82");
+                                   break;
+                               case 1010011:
+                                   System.out.println("\nSu numero es: 83");
+                                   break;
+                               case 1010100:
+                                   System.out.println("\nSu numero es: 84");
+                                   break;
+                               case 1010101:
+                                   System.out.println("\nSu numero es: 85");
+                                   break;
+                               case 1010110:
+                                   System.out.println("\nSu numero es: 86");
+                                   break;
+                               case 1010111:
+                                   System.out.println("\nSu numero es: 87");
+                                   break;
+                               case 1011000:
+                                   System.out.println("\nSu numero es: 88");
+                                   break;
+                               case 1011001:
+                                   System.out.println("\nSu numero es: 89");
+                                   break;
+                               case 1011010:
+                                   System.out.println("\nSu numero es: 90");
+                                   break;
+                               case 1011011:
+                                   System.out.println("\nSu numero es: 91");
+                                   break;
+                               case 1011100:
+                                   System.out.println("\nSu numero es: 92");
+                                   break;
+                               case 1011101:
+                                   System.out.println("\nSu numero es: 93");
+                                   break;
+                               case 1011110:
+                                   System.out.println("\nSu numero es: 94");
+                                   break;
+                               case 1011111:
+                                   System.out.println("\nSu numero es: 95");
+                                   break;
+                               case 1100000:
+                                   System.out.println("\nSu numero es: 96");
+                                   break;
+                               case 1100001:
+                                   System.out.println("\nSu numero es: 97");
+                                   break;
+                               case 1100010:
+                                   System.out.println("\nSu numero es: 98");
+                                   break;
+                               case 1100011:
+                                   System.out.println("\nSu numero es: 99");
+                                   break;
+                               case 1100100:
+                                   System.out.println("\nSu numero es: 100");
+                                   break;
+                               default:
+                                   System.out.println("\nEste convertidor esta limitado a 100 numeros hasta proximas actualizaciones se agregaran mas!!");
+                                   break;
                            }
                            break;
                            
