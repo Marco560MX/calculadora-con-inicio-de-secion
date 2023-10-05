@@ -26,19 +26,35 @@ public class Calcu{
                menu0 = datos.nextInt();
                switch(menu0){
                    case 1:
-                       System.out.println("\n");
+                       System.out.println("\nDigite el primer digito:");
+                       num1 = datos.nextInt();
+                       System.out.println("\nDigite el segundo digito:");
+                       num2 = datos.nextInt();
+                       System.out.println("Su resultado: " + (num1 + num2));
                        break;                                            
                    case 2:
-                       System.out.println("\n");
+                       System.out.println("\nDigite el primer digito:");
+                       num1 = datos.nextInt();
+                       System.out.println("\nDigite el segundo digito:");
+                       num2 = datos.nextInt();
+                       System.out.println("\nSu resultado es: " + (num1 - num2));
                        break;
                    case 3:
-                       System.out.println("\n");
+                       System.out.println("\nDigite el primer digito:");
+                       num1 = datos.nextInt();
+                       System.out.println("\nDigite el segundo digito:");
+                       num2 = datos.nextInt();
+                       System.out.println("\nSu resultado es: " + (num1 * num2));
                        break;
                    case 4:
-                       System.out.println("\n");
+                       System.out.println("\nDigite el primer digito:");
+                       num1 = datos.nextInt();
+                       System.out.println("\nDigite el segundo digito:");
+                       num2 = datos.nextInt();
+                       System.out.println("\nSu resultado es: " + (num1 / num2));
                         break;
                    default:
-                       System.out.println("\n");
+                       System.out.println("\nEsa opcion no existe!!");
                        break;
                }
            }
