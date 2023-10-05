@@ -75,12 +75,114 @@ public class Calcu{
                            System.out.println("\nBienvenido al convertidor de binario a numero!!");
                            System.out.println("\nDigite el codigo binario:");
                            menu3 = datos.nextInt();
+                           switch(menu3){
+                               case 00:
+                                   System.out.println("\nSu numero es: 0");
+                                   break;
+                               case 01:
+                                   System.out.println("\nSu numero es: 1");
+                                   break;
+                               case 10:
+                                   System.out.println("\nSu numero es: 2");
+                                   break;
+                               case 11:
+                                   System.out.println("\nSu numero es: 3");
+                                   break;
+                               case 100:
+                                   System.out.println("\nSu numero es: 4");
+                                   break;
+                               case 101:
+                                   System.out.println("\nSu numero es: 5");
+                                   break;
+                               case 110:
+                                   System.out.println("\nSu numero es: 6");
+                                   break;
+                               case 111:
+                                   System.out.println("\nSu numero es: 7");
+                                   break;
+                               case 1000:
+                                   System.out.println("\nSu numero es: 8");
+                                   break;
+                               case 1001:
+                                   System.out.println("\nSu numero es: 9");
+                                   break;
+                               case 1010:
+                                   System.out.println("\nSu numero es: 10");
+                                   break;
+                               case 1011:
+                                   System.out.println("\nSu numero es: 11");
+                                   break;
+                               case 1100:
+                                   System.out.println("\nSu numero es: 12");
+                                   break;
+                               case 1101:
+                                   System.out.println("\nSu numero es: 13");
+                                   break;
+                               case 1110:
+                                   System.out.println("\nSu numero es: 14");
+                                   break;
+                               case 1111:
+                                   System.out.println("\nSu numero es: 15");
+                                   break;
+                               case 10000:
+                                   System.out.println("\nSu numero es: 16");
+                                   break;
+                               case 10001:
+                                   System.out.println("\nSu numero es: 17");
+                                   break;
+                               case 10010:
+                                   System.out.println("\nSu numero es: 18");
+                                   break;
+                               case 10011:
+                                   System.out.println("\nSu numero es: 19");
+                                   break;
+                               case 10100:
+                                   System.out.println("\nSu numero es: 20");
+                                   break;
+                               case 10101:
+                                   System.out.println("\nSu numero es: 21");
+                                   break;
+                               case 10110:
+                                   System.out.println("\nSu numero es: 22");
+                                   break;
+                               case 10111:
+                                   System.out.println("\nSu numero es: 23");
+                                   break;
+                               case 11000:
+                                   System.out.println("\nSu numero es: 24");
+                                   break;
+                               case 11001:
+                                   System.out.println("\nSu numero es: 25");
+                                   break;
+                               case 11010:
+                                   System.out.println("\nSu numero es: 26");
+                                   break;
+                               case 11011:
+                                   System.out.println("\nSu numero es: 27");
+                                   break;
+                               case 11100:
+                                   System.out.println("\nSu numero es: 28");
+                                   break;
+                               case 11101:
+                                   System.out.println("\nSu numero es: 29");
+                                   break;
+                               case 11110:
+                                   System.out.println("\nSu numero es: 30");
+                                   break;
+                               case 11111:
+                                   System.out.println("\nSu numero es: 31");
+                                   break;
+                                   
+                           }
                            break;
                            
                            case 2:
                            System.out.println("\nBienvenido al convertidor de numero a binario!!");
                            System.out.println("\nDigite los digitos o numeros:");
                            menu4 = datos.nextInt();
+                           switch(menu4){
+                               
+                           }
                            break;
                            
                            default:
